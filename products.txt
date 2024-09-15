@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dell XPS 13",
+    "price": "$999",
+    "CPU": "Intel Core i7-1165G7"
+  },
+  {
+    "name": "MacBook Air M1",
+    "price": "$899",
+    "CPU": "Apple M1"
+  },
+  {
+    "name": "HP Spectre x360",
+    "price": "$1,199",
+    "CPU": "Intel Core i7-1260P"
+  }
+]
