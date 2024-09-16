@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "products": [
+      {
+        "name": "Smartphone",
+        "price": 699,
+        "brand": "BrandX"
+      },
+      {
+        "name": "Laptop",
+        "price": 1200,
+        "brand": "BrandY"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Home Appliances",
+    "products": [
+      {
+        "name": "Vacuum Cleaner",
+        "price": 150,
+        "brand": "CleanMaster"
+      },
+      {
+        "name": "Microwave Oven",
+        "price": 200,
+        "brand": "HeatPro"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fashion",
+    "products": [
+      {
+        "name": "T-shirt",
+        "price": 25,
+        "brand": "FashionLine"
+      },
+      {
+        "name": "Jeans",
+        "price": 50,
+        "brand": "DenimKing"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Books",
+    "products": [
+      {
+        "name": "The Great Novel",
+        "price": 15,
+        "author": "John Doe"
+      },
+      {
+        "name": "Science Encyclopedia",
+        "price": 30,
+        "author": "Jane Smith"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Toys",
+    "products": [
+      {
+        "name": "Lego Set",
+        "price": 60,
+        "brand": "Lego"
+      },
+      {
+        "name": "Action Figure",
+        "price": 25,
+        "brand": "HeroToys"
+      }
+    ]
+  }
+]
